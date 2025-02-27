@@ -1,6 +1,8 @@
 # Finanzas en Banca NET
 
-Esta demostración se trata de una API Restful más una página que muestra un listado de clientes usando React Vite muy sencilla de cómo se utilizan algunas fórmulas o cálculos para diversas operaciones financieras de una entidad bancaria.En este ejemplo hacemos uso de .NET Core, como ORM Microsoft EF (**_Entity Framework Core_**) ([ver más](https://learn.microsoft.com/en-us/ef/)) y una base de datos PostgreSQL ([ver más](https://www.postgresql.org/)).
+Esta demostración se trata de una API Restful más una página que muestra un listado de clientes usando React Vite muy sencilla de cómo se utilizan algunas fórmulas o cálculos para diversas operaciones financieras de una entidad bancaria.En este ejemplo hacemos uso de .NET Core, como ORM Microsoft EF (**_Entity Framework Core_**) ([ver más](https://learn.microsoft.com/en-us/ef/)) y una base de datos PostgreSQL ([ver más](https://www.postgresql.org/)). 
+
+![Captura](document/spa-capture.png)
 
 ---
 
