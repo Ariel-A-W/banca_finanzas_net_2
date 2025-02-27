@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.35806.103
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "banca_finanzas_net_backend", "banca_finanzas_net_backend\banca_finanzas_net_backend.csproj", "{FB20CB38-8EEE-4F46-8248-725D4E5DD995}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "banca_finanzas_net_frontend", "banca_finanzas_net_frontend\banca_finanzas_net_frontend.client\banca_finanzas_net_frontend.esproj", "{A57E92AA-A489-4730-1B38-B09524947F05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB20CB38-8EEE-4F46-8248-725D4E5DD995}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB20CB38-8EEE-4F46-8248-725D4E5DD995}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB20CB38-8EEE-4F46-8248-725D4E5DD995}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB20CB38-8EEE-4F46-8248-725D4E5DD995}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A57E92AA-A489-4730-1B38-B09524947F05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A57E92AA-A489-4730-1B38-B09524947F05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A57E92AA-A489-4730-1B38-B09524947F05}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{A57E92AA-A489-4730-1B38-B09524947F05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A57E92AA-A489-4730-1B38-B09524947F05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A57E92AA-A489-4730-1B38-B09524947F05}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0AF1A41-C478-4CCA-929C-B7F1E220E60A}
+	EndGlobalSection
+EndGlobal
